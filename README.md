@@ -1,4 +1,6 @@
 # 📱 Spam Message Detection
+![Spam Detection Web App](doc/spam2.png)
+ 
 ## 📌 Overview
 A machine learning-powered web application that detects whether an SMS message is **Spam** or **Ham (Legitimate)**.
 The project uses **Natural Language Processing (NLP)** to preprocess text messages and a **Multinomial Naive Bayes** classifier to make predictions. The trained model is integrated with a **Flask backend** and an **HTML/CSS frontend** for real-time predictions.
