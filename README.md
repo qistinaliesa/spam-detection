@@ -1,5 +1,5 @@
 # 📱 Spam Message Detection
-![Spam Detection Web App](doc/spam2.png)
+![Spam Detection Web App](./Doc/spam2.png)
  
 ## 📌 Overview
 A machine learning-powered web application that detects whether an SMS message is **Spam** or **Ham (Legitimate)**.
